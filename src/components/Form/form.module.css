@@ -1,0 +1,37 @@
+.form__title {
+  border-bottom: 3px solid #07b148;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.forma {
+  display: flex;
+  flex-direction: column;
+}
+
+.forma__label {
+  margin-top: 10px;
+}
+
+.forma__input {
+  margin-top: 5px;
+  padding: 0 3px;
+  border: 0;
+  height: 25px;
+  border-bottom: 1px solid black;
+}
+
+.forma__textarea {
+  margin-top: 5px;
+  padding: 0 3px;
+}
+
+.form__button {
+  margin-top: 20px;
+  background-color: #006b09;
+  width: min-content;
+}
+
+.form__button:focus {
+  background-color: #07b148;
+}

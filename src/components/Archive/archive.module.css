@@ -1,0 +1,18 @@
+.archive {
+  margin-top: 20px;
+}
+
+.archive__title {
+  border-bottom: 3px solid #07b148;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.archive__block {
+  border: dashed 0.1rem #006b09;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  padding: 10px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
